@@ -10,8 +10,13 @@ description: 'Example of student work: final project presentation by Noel Campbe
   of tests using ModelSim and simulated data. Once each component passes design and
   functional tests, all three components are then connected to transmit video data
   wirelessly.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/469c23ff4c23096799cbf005eb908305_presentation10.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/469c23ff4c23096799cbf005eb908305_presentation10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: presentation10.pdf
 uid: 469c23ff-4c23-0967-99cb-f005eb908305

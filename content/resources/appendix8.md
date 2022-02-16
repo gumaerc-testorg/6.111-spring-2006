@@ -8,8 +8,13 @@ description: 'Example of student work: project code for a final project by Marie
   flying the plane stands in front of a monitor that displays the main features of
   an airplane console, including an attitude indicator, a compass, and an altitude
   and vertical velocity display.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/8e8c95157762b41587570ded8c345049_appendix8.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/8e8c95157762b41587570ded8c345049_appendix8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix8.pdf
 uid: 8e8c9515-7762-b415-8757-0ded8c345049

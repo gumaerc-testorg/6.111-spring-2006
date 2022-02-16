@@ -11,8 +11,13 @@ description: 'Example of student work: project code for a final project by David
   continues until one player loses all her life. The output displays an image of the
   gloves and the opponent and health meter. The fighters, their health meters, and
   the boxing ring are drawn using sprites read from ROM.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/52c12e2efbc7993d0ad459d216caa4d1_appendix1.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/52c12e2efbc7993d0ad459d216caa4d1_appendix1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix1.pdf
 uid: 52c12e2e-fbc7-993d-0ad4-59d216caa4d1

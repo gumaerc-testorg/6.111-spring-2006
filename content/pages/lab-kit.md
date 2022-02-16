@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lab Kit
 uid: e00fa618-e488-14d9-837d-056e10a2a140
 ---

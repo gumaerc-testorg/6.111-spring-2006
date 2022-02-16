@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 title: Group 8
 uid: a0c6077b-44dd-9568-d8e5-b199ea8ff7ab

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This topic contains number systems basics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/e429de99234a3519553bfc45ee151b7f_l8_9_arithmetic.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/e429de99234a3519553bfc45ee151b7f_l8_9_arithmetic.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l8_9_arithmetic.pdf
 uid: e429de99-234a-3519-553b-fc45ee151b7f

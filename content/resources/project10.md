@@ -10,8 +10,13 @@ description: 'Example of student work: final project report by Noel Campbell, Vi
   of tests using ModelSim and simulated data. Once each component passes design and
   functional tests, all three components are then connected to transmit video data
   wirelessly.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/86319133a983f10d3b74855373291255_project10.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/86319133a983f10d3b74855373291255_project10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project10.pdf
 uid: 86319133-a983-f10d-3b74-855373291255

@@ -8,8 +8,13 @@ description: 'Example of student work: final project presentation by Mariela Buc
   flying the plane stands in front of a monitor that displays the main features of
   an airplane console, including an attitude indicator, a compass, and an altitude
   and vertical velocity display.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/575327f4b3160ac04ef9744d4d36ed8c_presentation8.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/575327f4b3160ac04ef9744d4d36ed8c_presentation8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: presentation8.pdf
 uid: 575327f4-b316-0ac0-4ef9-744d4d36ed8c

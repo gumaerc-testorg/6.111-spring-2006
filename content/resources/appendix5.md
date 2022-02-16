@@ -7,8 +7,13 @@ description: 'Example of student work: project code for a final project by Igor 
   image. The view is controlled through a trackball mouse, which specifies rotations,
   translations and zoom. While the renderer can take in pre-built models stored in
   on-chip ROM, during gameplay a model of the current board is generated dynamically.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/4f5a5900f1dc7a6d903ddf2f0f48f725_appendix5.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/4f5a5900f1dc7a6d903ddf2f0f48f725_appendix5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix5.pdf
 uid: 4f5a5900-f1dc-7a6d-903d-df2f0f48f725

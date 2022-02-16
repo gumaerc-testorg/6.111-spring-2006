@@ -8,8 +8,13 @@ description: 'Example of student work: final project report by Mariela Buchin, W
   the plane stands in front of a monitor that displays the main features of an airplane
   console, including an attitude indicator, a compass, and an altitude and vertical
   velocity display.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/fbdd6e7d2ab89756abcffda3a10b45bc_project8.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/fbdd6e7d2ab89756abcffda3a10b45bc_project8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project8.pdf
 uid: fbdd6e7d-2ab8-9756-abcf-fda3a10b45bc

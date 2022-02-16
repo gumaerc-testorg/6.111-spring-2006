@@ -9,8 +9,13 @@ description: 'Example of student work: project code for a final project by Helen
   onto the ground and changes the color of the keys upon activation; the motion detection
   system, which detects the location of the player''s feet and determines the key
   stepped on; and audio output, which plays the activated note.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/edc047aa249c020e34b379aa03af1476_appendix12.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/edc047aa249c020e34b379aa03af1476_appendix12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix12.pdf
 uid: edc047aa-249c-020e-34b3-79aa03af1476

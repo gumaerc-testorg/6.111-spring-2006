@@ -11,8 +11,13 @@ description: 'Example of student work: project code for a final project by Masoo
   in a meaningful way to the user through a VGA display. Finally, the user will also
   have access to audio outputs such as the sequence of correct tones and the user''s
   recorded voice through headphones.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-111-introductory-digital-systems-laboratory-spring-2006/5b75350350cd7c4103cd2bc6beaf243f_appendix7.pdf
+file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/5b75350350cd7c4103cd2bc6beaf243f_appendix7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: appendix7.pdf
 uid: 5b753503-50cd-7c41-03cd-2bc6beaf243f
