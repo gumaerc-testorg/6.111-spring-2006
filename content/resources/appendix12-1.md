@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Group 12
 parent_type: CourseSection
+parent_uid: 07d2680f-44db-7ed7-91a5-3e42659bf896
 resourcetype: Document
 title: appendix12.pdf
 uid: 72f13b37-194d-ae1b-61eb-cb04f7c035aa

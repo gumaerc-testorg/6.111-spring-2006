@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f75f75e3-2475-7fc9-19a3-9765ec10aeff
 resourcetype: Document
 title: l8_9_arithmetic.pdf
 uid: e429de99-234a-3519-553b-fc45ee151b7f

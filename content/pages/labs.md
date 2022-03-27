@@ -56,9 +56,9 @@ HCT family specification
 {{< tdopen >}}
 
 
-([lab1\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab1_labkit.v))  
-([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
-([seven\_segment.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/seven_segment.v))
+([lab1\_labkit.v]({{< baseurl >}}/resources/lab1_labkit))  
+([labkit.ucf]({{< baseurl >}}/resources/labkit))  
+([seven\_segment.v]({{< baseurl >}}/resources/seven_segment))
 
 
 {{< tdclose >}}
@@ -74,9 +74,9 @@ Lab 2: FSM design - Traffic light controller ([PDF]({{< baseurl >}}/resources/la
 {{< tdopen >}}
 
 
-([lab2\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab2_labkit.v))  
-([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
-([debounce.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/debounce.v))
+([lab2\_labkit.v]({{< baseurl >}}/resources/lab2_labkit))  
+([labkit.ucf]({{< baseurl >}}/resources/labkit))  
+([debounce.v]({{< baseurl >}}/resources/debounce))
 
 
 {{< tdclose >}}
@@ -93,9 +93,9 @@ MCM6264
 {{< tdopen >}}
 
 
-([lab3\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab3_labkit.v))  
-([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
-([dots.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/dots.v))
+([lab3\_labkit.v]({{< baseurl >}}/resources/lab3_labkit))  
+([labkit.ucf]({{< baseurl >}}/resources/labkit))  
+([dots.v]({{< baseurl >}}/resources/dots))
 
 
 {{< tdclose >}}
@@ -112,9 +112,9 @@ ADV7125 triple 8-bit video DAC
 {{< tdopen >}}
 
 
-([lab4\_labkit.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/lab4_labkit.v))  
-([labkit.ucf](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/labkit.ucf))  
-([debounce.v](/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/debounce.v))
+([lab4\_labkit.v]({{< baseurl >}}/resources/lab4_labkit))  
+([labkit.ucf]({{< baseurl >}}/resources/labkit))  
+([debounce.v]({{< baseurl >}}/resources/debounce))
 
 
 {{< tdclose >}}

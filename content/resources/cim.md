@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 8f162ef2-6bdb-ae47-4a18-461ce76ffe83
 resourcetype: Document
 title: cim.pdf
 uid: 27202dd8-5824-273a-6314-8e14374fba9d

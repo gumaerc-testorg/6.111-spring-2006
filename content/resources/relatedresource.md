@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 8f162ef2-6bdb-ae47-4a18-461ce76ffe83
 resourcetype: Document
 title: relatedresource.pdf
 uid: ebcc5f1a-b76a-0f6f-0e69-cb21de1b0952

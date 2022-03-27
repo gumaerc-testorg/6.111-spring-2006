@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Group 10
 parent_type: CourseSection
+parent_uid: 6d09a50d-68de-ac04-2fef-b8a4dd7141a1
 resourcetype: Document
 title: appendix10.pdf
 uid: 0d279166-6b8f-b4b9-5300-8a3eb2b8b4ad

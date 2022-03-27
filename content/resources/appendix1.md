@@ -18,6 +18,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 resourcetype: Document
 title: appendix1.pdf
 uid: 52c12e2e-fbc7-993d-0ad4-59d216caa4d1

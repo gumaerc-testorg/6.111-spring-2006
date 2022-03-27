@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Group 3
 parent_type: CourseSection
+parent_uid: ace94507-4f7e-bb05-30ff-a5bcc981ddec
 resourcetype: Document
 title: appendix3.pdf
 uid: 396dd667-fab3-daf9-1676-d358309bc227
