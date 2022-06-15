@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Source file for Lab 1: Introduction to digital design.'
-file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/d3acb8761deb3da2d9a52196f06c9705_lab1_labkit.v
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/d3acb8761deb3da2d9a52196f06c9705_lab1_labkit.v
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: lab1_labkit.v
 uid: d3acb876-1deb-3da2-d9a5-2196f06c9705
 ---
+Source file for Lab 1: Introduction to digital design.
+

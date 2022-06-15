@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Source file for Lab 4: Complex FSM - Pong video game.'
-file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/6edb3ef1b6507c425e76d0004e6b0946_debounce.v
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/6edb3ef1b6507c425e76d0004e6b0946_debounce.v
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: debounce.v
 uid: 6edb3ef1-b650-7c42-5e76-d0004e6b0946
 ---
+Source file for Lab 4: Complex FSM - Pong video game.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Source file for completing the course lab assignments.
-file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/c690d0a9ba0c85afffa3a5303286299e_labkit.ucf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/c690d0a9ba0c85afffa3a5303286299e_labkit.ucf
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: labkit.ucf
 uid: c690d0a9-ba0c-85af-ffa3-a5303286299e
 ---
+Source file for completing the course lab assignments.
+

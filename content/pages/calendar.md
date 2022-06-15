@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: The calendar section provides the schedule of lecture topics and key
+  dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: bee2f61a-a2f7-7ee1-11c8-47fac4eade6c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lecture (L), recitation (R), quiz (Q), conference sessions (C) and project (P) sessions.

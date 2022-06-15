@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Source file for Lab 2: FSM design - Traffic light controller.'
-file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/2a186b843abee8741c7828e96ac3d0d5_lab2_labkit.v
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/2a186b843abee8741c7828e96ac3d0d5_lab2_labkit.v
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: lab2_labkit.v
 uid: 2a186b84-3abe-e874-1c78-28e96ac3d0d5
 ---
+Source file for Lab 2: FSM design - Traffic light controller.
+

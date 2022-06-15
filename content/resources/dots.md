@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Source file for Lab 3: FSM design - Memory tester.'
-file: /media/courses/6-111-introductory-digital-systems-laboratory-spring-2006/4ede32d06844a17f5792fc633fb61682_dots.v
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/4ede32d06844a17f5792fc633fb61682_dots.v
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: dots.v
 uid: 4ede32d0-6844-a17f-5792-fc633fb61682
 ---
+Source file for Lab 3: FSM design - Memory tester.
+
