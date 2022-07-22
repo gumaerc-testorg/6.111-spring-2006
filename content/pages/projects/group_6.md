@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 332f2eab-5d2e-3e04-51e5-b212cabc7de3
 title: Group 5
 uid: 3b862e69-7adf-714d-c58f-a02ac6fd37e3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Groups: [1]({{< baseurl >}}/pages/projects/group1) | [2]({{< baseurl >}}/pages/projects/group_2) | [3]({{< baseurl >}}/pages/projects/group_3) | [4]({{< baseurl >}}/pages/projects/group_5) | 5 | [6]({{< baseurl >}}/pages/projects/group_7) | [7]({{< baseurl >}}/pages/projects/group_8) | [8]({{< baseurl >}}/pages/projects/group_9) | [9]({{< baseurl >}}/pages/projects/group_10) | [10]({{< baseurl >}}/pages/projects/group_11) | [11]({{< baseurl >}}/pages/projects/group_13-htm) | [12]({{< baseurl >}}/pages/projects/group_14-htm) | [13]({{< baseurl >}}/pages/projects/group_16-htm) | [14]({{< baseurl >}}/pages/projects/group_18-htm) | [15]({{< baseurl >}}/pages/projects/group_19-htm)
+Groups: {{% resource_link 154db192-2574-3f27-fc7e-20328846dbe3 "1" %}} | {{% resource_link cc50bffd-29fe-46a8-2986-bc1cfa41de10 "2" %}} | {{% resource_link ace94507-4f7e-bb05-30ff-a5bcc981ddec "3" %}} | {{% resource_link b2eb79ee-1861-14d3-8a60-26d864e56d26 "4" %}} | 5 | {{% resource_link 7d70f20b-d552-c8a6-1be5-c2300b36deb7 "6" %}} | {{% resource_link 2c9812a5-49b4-08db-64ac-968b82c46542 "7" %}} | {{% resource_link a0c6077b-44dd-9568-d8e5-b199ea8ff7ab "8" %}} | {{% resource_link adfdd650-b23d-826e-2a98-f527493aba1b "9" %}} | {{% resource_link 6d09a50d-68de-ac04-2fef-b8a4dd7141a1 "10" %}} | {{% resource_link 2c408b96-f405-b9b8-7c7a-f54469520d8b "11" %}} | {{% resource_link 07d2680f-44db-7ed7-91a5-3e42659bf896 "12" %}} | {{% resource_link 3ea44805-4a81-c281-22f1-1f62c8c8d827 "13" %}} | {{% resource_link 2abdaad1-137b-1bd8-ace4-562ce30baf8b "14" %}} | {{% resource_link 08ca57c2-ac27-d35e-12fb-0c544d7f16bc "15" %}}
 
 3-D Pong
 --------
@@ -25,8 +34,8 @@ The renderer is pipelined, and is divided into several submodules. These include
 Project Files
 -------------
 
-Presentation ([PDF]({{< baseurl >}}/resources/presentation5))
+Presentation ({{% resource_link 61f8548e-486f-7eca-b897-1f962d9e63d1 "PDF" %}})
 
-Report ([PDF]({{< baseurl >}}/resources/project5))
+Report ({{% resource_link 9837d1a7-f89f-fd4f-db83-d34d63e245f8 "PDF" %}})
 
-Report Appendix ([PDF]({{< baseurl >}}/resources/appendix4))
+Report Appendix ({{% resource_link 6e2d3ddb-2dce-8145-d5a5-15311cdd8857 "PDF" %}})

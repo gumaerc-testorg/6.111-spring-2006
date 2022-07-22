@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f75f75e3-2475-7fc9-19a3-9765ec10aeff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -22,7 +30,7 @@ TOPICS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/l1_overview))
+Introduction ({{% resource_link 317da3ee-f461-2e54-3559-758c871d25d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +39,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/l1_overview))
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Combinational logic ([PDF]({{< baseurl >}}/resources/l2_combi_logic))
+Combinational logic ({{% resource_link 340fab3b-d545-02c9-6ef1-77100c99b0f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +48,7 @@ Combinational logic ([PDF]({{< baseurl >}}/resources/l2_combi_logic))
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Verilog® - combinational logic ([PDF]({{< baseurl >}}/resources/l3_combi_veri))
+Introduction to Verilog® - combinational logic ({{% resource_link c980dc16-3d6d-7e97-39a7-6e002c6ce861 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +57,7 @@ Introduction to Verilog® - combinational logic ([PDF]({{< baseurl >}}/resources
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Sequential building blocks ([PDF]({{< baseurl >}}/resources/l4_seql_blocks))
+Sequential building blocks ({{% resource_link 7b4d1c01-7578-e7e2-0e05-0168444382e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +66,7 @@ Sequential building blocks ([PDF]({{< baseurl >}}/resources/l4_seql_blocks))
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Simple sequential circuits and Verilog® ([PDF]({{< baseurl >}}/resources/l5_seql_verilog))
+Simple sequential circuits and Verilog® ({{% resource_link 09793dcc-124f-0226-e93e-b01591762630 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +75,7 @@ Simple sequential circuits and Verilog® ([PDF]({{< baseurl >}}/resources/l5_seq
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Finite-state machines and synchronization ([PDF]({{< baseurl >}}/resources/l6_fsm))
+Finite-state machines and synchronization ({{% resource_link 42a54faa-b45f-e615-9173-0e7846643cc9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +84,7 @@ Finite-state machines and synchronization ([PDF]({{< baseurl >}}/resources/l6_fs
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-Memory basics and timing ([PDF]({{< baseurl >}}/resources/l7_memory))
+Memory basics and timing ({{% resource_link b148883f-2540-cfb8-ae02-5c89891e5afc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +93,7 @@ Memory basics and timing ([PDF]({{< baseurl >}}/resources/l7_memory))
 L8-L9
 {{< tdclose >}}
 {{< tdopen >}}
-Arithmetic structures ([PDF]({{< baseurl >}}/resources/l8_9_arithmetic))
+Arithmetic structures ({{% resource_link e429de99-234a-3519-553b-fc45ee151b7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +102,7 @@ Arithmetic structures ([PDF]({{< baseurl >}}/resources/l8_9_arithmetic))
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Analog building blocks ([PDF]({{< baseurl >}}/resources/l10_analog))
+Analog building blocks ({{% resource_link bda9efe8-db21-622a-fb12-e8a2af6cd994 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +111,7 @@ Analog building blocks ([PDF]({{< baseurl >}}/resources/l10_analog))
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-System integration issues and major/minor FSM ([PDF]({{< baseurl >}}/resources/l11_maj_min_fsm))
+System integration issues and major/minor FSM ({{% resource_link 068c445a-4f08-f5fb-9a81-34062b209a2a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +120,7 @@ System integration issues and major/minor FSM ([PDF]({{< baseurl >}}/resources/l
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Reconfigurable logic architecture ([PDF - 1.3 MB]({{< baseurl >}}/resources/l12_fpgas))
+Reconfigurable logic architecture ({{% resource_link 98b55116-32ab-fbaa-4af8-33cef72e7416 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +129,7 @@ Reconfigurable logic architecture ([PDF - 1.3 MB]({{< baseurl >}}/resources/l12_
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Video ([PDF - 4.0 MB]({{< baseurl >}}/resources/l13_video))
+Video ({{% resource_link 96464ab2-374c-6fde-8d53-470bf4c021c2 "PDF - 4.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +138,7 @@ Video ([PDF - 4.0 MB]({{< baseurl >}}/resources/l13_video))
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-Project kickoff ([PDF]({{< baseurl >}}/resources/l14_project))
+Project kickoff ({{% resource_link 1ea08258-586d-1c02-cece-f7e14805e94f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +147,7 @@ Project kickoff ([PDF]({{< baseurl >}}/resources/l14_project))
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-LSI integration and performance transformations ([PDF - 1.1 MB]({{< baseurl >}}/resources/l15_vlsi_print))
+LSI integration and performance transformations ({{% resource_link 175ea2da-2a74-523a-f3f3-837a5c39b13c "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +156,7 @@ LSI integration and performance transformations ([PDF - 1.1 MB]({{< baseurl >}}/
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-Power dissipation in digital systems ([PDF]({{< baseurl >}}/resources/l16_print))
+Power dissipation in digital systems ({{% resource_link 38df2a59-4fdb-6d0a-9599-0dcb1229957d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
