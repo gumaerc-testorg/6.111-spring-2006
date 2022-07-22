@@ -6,6 +6,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/340fab3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about combinational logic design, and construction and Boolean algebra.
-

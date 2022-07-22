@@ -7,6 +7,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/cd127bb
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: final project presentation by Chris Buenrostro, Isaac Rosmarin, and Archana Venkataraman. This project proposes to design and implement a 2-input polygraph using the Xilinx Virtex2 FPGA.
-

@@ -6,6 +6,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/7628894
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Quiz on sequential building blocks and counters, carry skip adder, glitches in digital design, memory, and Verilog.
-

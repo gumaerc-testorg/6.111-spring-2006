@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/19bdf18d844aa744beae102ca1b5947b_appendix14.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Group 14
 parent_type: CourseSection

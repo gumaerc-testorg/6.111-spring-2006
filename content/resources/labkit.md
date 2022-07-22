@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/c690d0a
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: labkit.ucf
 uid: c690d0a9-ba0c-85af-ffa3-a5303286299e
 ---
 Source file for completing the course lab assignments.
-

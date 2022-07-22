@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/2a186b8
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2_labkit.v
 uid: 2a186b84-3abe-e874-1c78-28e96ac3d0d5
 ---
 Source file for Lab 2: FSM design - Traffic light controller.
-

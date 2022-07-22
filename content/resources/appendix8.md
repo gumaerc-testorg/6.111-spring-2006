@@ -12,6 +12,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/8e8c951
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: project code for a final project by Mariela Buchin, WonRon Cho, and Scott Fisher. This project involves the creation of a "smart flight vest" that detects movements from a human body and translates them into parameters that determine the pitch and roll of an airplane in flight. The throttle of the plane is determined by a pressure sensor located under the pilot's foot. The pilot flying the plane stands in front of a monitor that displays the main features of an airplane console, including an attitude indicator, a compass, and an altitude and vertical velocity display.
-

@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/499fae5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This topic contains memory classification and metrics.
-

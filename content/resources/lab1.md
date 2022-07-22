@@ -6,6 +6,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/aeb3084
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Laboratory assignment with an introduction to important tools and devices that will be used throughout the term.
-

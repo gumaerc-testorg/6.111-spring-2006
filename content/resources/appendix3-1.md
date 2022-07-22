@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/396dd667fab3daf91676d358309bc227_appendix3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Group 3
 parent_type: CourseSection

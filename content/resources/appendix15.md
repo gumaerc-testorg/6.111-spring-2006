@@ -8,6 +8,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/ef2b9aa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: project code for a final project by Matthew Doherty. The project aims to implement the "novel and elegant" Generalized Local Decoding of Walsh codewords in an FPGA to determine the potential power savings of the algorithm in hardware.
-

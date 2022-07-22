@@ -6,6 +6,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/7b4d1c0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on sequential building blocks, flip-flops, latches, and registers.
-

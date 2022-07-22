@@ -7,6 +7,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/bab5f3b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: project code for a final project by Hana Adaniya and Shirley Fung. This project involves the design, implementation, testing, and final results of a digital drum machine.
-

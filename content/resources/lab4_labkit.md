@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/595e58e
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab4_labkit.v
 uid: 595e58ef-619e-cd9a-d3e1-a7a39ff1099b
 ---
 Source file for Lab 4: Complex FSM - Pong video game.
-

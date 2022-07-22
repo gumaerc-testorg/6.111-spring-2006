@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/8c9a4db
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: seven_segment.v
 uid: 8c9a4dbb-6e44-dadb-eab5-5296cda026ff
 ---
 Source file for Lab 1: Introduction to digital design.
-

@@ -5,6 +5,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/4ede32d
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dots.v
 uid: 4ede32d0-6844-a17f-5792-fc633fb61682
 ---
 Source file for Lab 3: FSM design - Memory tester.
-

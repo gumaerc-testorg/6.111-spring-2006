@@ -7,6 +7,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/2cf188d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This topic contains applications of Flat-Panel displays, human eyes, emissive displays, Cathode Ray tube, Plasma displays, digital mirror device, composite frames, matrix addressing and color generation techniques.
-

@@ -6,6 +6,7 @@ file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/b2dd9d7
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Guidelines on avoiding common errors when working on the digital system design project.
-
