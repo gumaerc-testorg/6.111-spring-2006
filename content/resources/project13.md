@@ -4,6 +4,7 @@ description: 'Example of student work: final project report by Cameron Lewis and
   Sun. The purpose of this project is to demonstrate an advanced version of the classic
   arcade game Tetris.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/e1cb3a38820b773d606242f6e541f7e0_project13.pdf
+file_size: 547067
 file_type: application/pdf
 learning_resource_types:
 - Projects

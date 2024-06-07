@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/fc2ed51174592e3052a608e6901be897_lec5.pdf
+file_size: 600579
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

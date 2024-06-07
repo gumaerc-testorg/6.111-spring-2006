@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on memory basics and timing.
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/b148883f2540cfb8ae025c89891e5afc_l7_memory.pdf
+file_size: 304098
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

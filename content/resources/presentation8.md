@@ -9,6 +9,7 @@ description: 'Example of student work: final project presentation by Mariela Buc
   an airplane console, including an attitude indicator, a compass, and an altitude
   and vertical velocity display.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/575327f4b3160ac04ef9744d4d36ed8c_presentation8.pdf
+file_size: 314154
 file_type: application/pdf
 learning_resource_types:
 - Projects

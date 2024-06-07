@@ -11,6 +11,7 @@ description: 'Example of student work: final project presentation by Noel Campbe
   functional tests, all three components are then connected to transmit video data
   wirelessly.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/469c23ff4c23096799cbf005eb908305_presentation10.pdf
+file_size: 222476
 file_type: application/pdf
 learning_resource_types:
 - Projects

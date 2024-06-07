@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/e51ab26b855e79aae27cb6178db917e8_projectresources.pdf
+file_size: 61498
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on flat panel display devices and display drivers.
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/96464ab2374c6fde8d53470bf4c021c2_l13_video.pdf
+file_size: 4203612
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
