@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on reconfigurable logic architecture and the history of
   computational fabrics.
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/98b5511632abfbaa4af833cef72e7416_l12_fpgas.pdf
+file_size: 1389466
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

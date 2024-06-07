@@ -11,6 +11,7 @@ description: 'Example of student work: project code for a final project by Noel 
   functional tests, all three components are then connected to transmit video data
   wirelessly.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/81f7264fb7d97d529fa8509299a7cfef_appendix10.pdf
+file_size: 649803
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/0720767c62da85c1a0ac289e08b94bfe_project10.pdf
+file_size: 375195
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

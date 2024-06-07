@@ -9,6 +9,7 @@ description: 'Example of student work: project code for a final project by Leon 
   (to determine the angle) and delays (to calculate distances) in the receivers will
   allow a two-dimensional map of the environment to be drawn.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/b90c12fea090164d6c882e2bb4e9c368_appendix6.pdf
+file_size: 442617
 file_type: application/pdf
 learning_resource_types:
 - Projects

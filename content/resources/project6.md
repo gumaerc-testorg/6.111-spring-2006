@@ -9,6 +9,7 @@ description: 'Example of student work: final project report by Leon Fay, Miranda
   determine the angle) and delays (to calculate distances) in the receivers will allow
   a two-dimensional map of the environment to be drawn.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/2c510282caa41e149acdb7d1a194fe74_project6.pdf
+file_size: 577917
 file_type: application/pdf
 learning_resource_types:
 - Projects

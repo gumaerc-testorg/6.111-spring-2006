@@ -2,6 +2,7 @@
 content_type: resource
 description: This topic contains memory classification and metrics.
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/499fae5e27b58a4b28605923aebe210e_lec7.pdf
+file_size: 379431
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

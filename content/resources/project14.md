@@ -4,6 +4,7 @@ description: 'Example of student work: final project report by Annamaria Ayuso a
   Sharmeen Browarek. The purpose of this project is to create a newer and better version
   of Dance Dance Revolution (DDR).'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/952c16086389a7f6f9ebd5481e03959a_project14.pdf
+file_size: 187738
 file_type: application/pdf
 learning_resource_types:
 - Projects
