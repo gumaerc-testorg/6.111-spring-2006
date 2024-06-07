@@ -8,6 +8,7 @@ description: 'Example of student work: project code for a final project by Igor 
   translations and zoom. While the renderer can take in pre-built models stored in
   on-chip ROM, during gameplay a model of the current board is generated dynamically.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/4f5a5900f1dc7a6d903ddf2f0f48f725_appendix5.pdf
+file_size: 451373
 file_type: application/pdf
 learning_resource_types:
 - Projects

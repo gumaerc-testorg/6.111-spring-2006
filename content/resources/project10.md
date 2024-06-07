@@ -11,6 +11,7 @@ description: 'Example of student work: final project report by Noel Campbell, Vi
   functional tests, all three components are then connected to transmit video data
   wirelessly.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/86319133a983f10d3b74855373291255_project10.pdf
+file_size: 375195
 file_type: application/pdf
 learning_resource_types:
 - Projects

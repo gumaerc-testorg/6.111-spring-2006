@@ -12,6 +12,7 @@ description: 'Example of student work: final project presentation by Masood Qazi
   audio outputs such as the sequence of correct tones and the user''s recorded voice
   through headphones.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/54cd44e3ee7b1dfeedd84b34574b6e66_presentation7.pdf
+file_size: 163306
 file_type: application/pdf
 learning_resource_types:
 - Projects

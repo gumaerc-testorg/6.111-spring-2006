@@ -4,6 +4,7 @@ description: 'Example of student work: final project report by Michael Huhs and 
   Jhaveri. The goal of this final project is to implement a digital camera using a
   Xilinx Virtex II FPGA that is built into the 6.111 Labkit.'
 file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/ab7b04aa6587bf447c86f7ac36b8435c_project11.pdf
+file_size: 463382
 file_type: application/pdf
 learning_resource_types:
 - Projects
