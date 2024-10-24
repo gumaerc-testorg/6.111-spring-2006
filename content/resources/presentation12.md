@@ -9,7 +9,7 @@ description: 'Example of student work: final project presentation by Helen Liang
   onto the ground and changes the color of the keys upon activation; the motion detection
   system, which detects the location of the player''s feet and determines the key
   stepped on; and audio output, which plays the activated note.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/37df00dfb072cab7bc93430966e29bcd_presentation12.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/37df00dfb072cab7bc93430966e29bcd_presentation12.pdf
 file_size: 299127
 file_type: application/pdf
 learning_resource_types:

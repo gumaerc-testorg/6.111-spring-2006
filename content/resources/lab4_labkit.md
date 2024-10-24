@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Source file for Lab 4: Complex FSM - Pong video game.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/595e58ef619ecd9ad3e1a7a39ff1099b_lab4_labkit.v
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/595e58ef619ecd9ad3e1a7a39ff1099b_lab4_labkit.v
 file_size: 8812
 file_type: text/plain
 learning_resource_types:

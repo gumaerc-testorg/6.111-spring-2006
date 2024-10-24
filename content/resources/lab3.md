@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory assignment to design finite state machine(s) to test the functionality
   of a MCM6264C Static RAM (SRAM).
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/94b491a7f35e54920f7a9dc44e3a39af_lab3.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/94b491a7f35e54920f7a9dc44e3a39af_lab3.pdf
 file_size: 142416
 file_type: application/pdf
 learning_resource_types:

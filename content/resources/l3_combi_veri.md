@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to Verilog? and combinational logic.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/c980dc163d6d7e9739a76e002c6ce861_l3_combi_veri.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/c980dc163d6d7e9739a76e002c6ce861_l3_combi_veri.pdf
 file_size: 326706
 file_type: application/pdf
 learning_resource_types:
