@@ -7,7 +7,7 @@ description: 'Example of student work: final project report by Igor Ginsburg. 3D
   view is controlled through a trackball mouse, which specifies rotations, translations
   and zoom. While the renderer can take in pre-built models stored in on-chip ROM,
   during gameplay a model of the current board is generated dynamically.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/9837d1a7f89ffd4fdb83d34d63e245f8_project5.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/9837d1a7f89ffd4fdb83d34d63e245f8_project5.pdf
 file_size: 92392
 file_type: application/pdf
 learning_resource_types:

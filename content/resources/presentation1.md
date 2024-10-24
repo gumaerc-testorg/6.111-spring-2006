@@ -11,7 +11,7 @@ description: 'Example of student work: final project presentation by David Blau,
   continues until one player loses all her life. The output displays an image of the
   gloves and the opponent and health meter. The fighters, their health meters, and
   the boxing ring are drawn using sprites read from ROM.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/6995e5771dc2ce688a17655bad944dce_presentation1.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/6995e5771dc2ce688a17655bad944dce_presentation1.pdf
 file_size: 114750
 file_type: application/pdf
 learning_resource_types:

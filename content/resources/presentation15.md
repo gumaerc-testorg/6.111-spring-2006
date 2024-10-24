@@ -4,7 +4,7 @@ description: 'Example of student work: final project presentation by Matthew Doh
   The project aims to implement the "novel and elegant" Generalized Local Decoding
   of Walsh codewords in an FPGA to determine the potential power savings of the algorithm
   in hardware.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/689141b23929f6ca86dbebc290a23b39_presentation15.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/689141b23929f6ca86dbebc290a23b39_presentation15.pdf
 file_size: 96396
 file_type: application/pdf
 learning_resource_types:

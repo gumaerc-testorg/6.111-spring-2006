@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Source file for Lab 1: Introduction to digital design.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/8c9a4dbb6e44dadbeab55296cda026ff_seven_segment.v
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/8c9a4dbb6e44dadbeab55296cda026ff_seven_segment.v
 file_size: 791
 file_type: text/plain
 learning_resource_types:
