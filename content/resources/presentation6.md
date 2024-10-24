@@ -8,7 +8,7 @@ description: 'Example of student work: final project presentation by Leon Fay, M
   in a linear array spaced appropriately. Analysis of the phase relationships (to
   determine the angle) and delays (to calculate distances) in the receivers will allow
   a two-dimensional map of the environment to be drawn.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/304c6ca4b90e92a4e63f595b073e7c64_presentation6.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/304c6ca4b90e92a4e63f595b073e7c64_presentation6.pdf
 file_size: 187709
 file_type: application/pdf
 learning_resource_types:

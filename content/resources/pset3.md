@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on critical path timing analysis, two?s complement multiplier,
   generating block RAMs, and video controllers.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/ab55ec81192a2b7487bb78b2c883b58a_pset3.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/ab55ec81192a2b7487bb78b2c883b58a_pset3.pdf
 file_size: 69319
 file_type: application/pdf
 learning_resource_types:

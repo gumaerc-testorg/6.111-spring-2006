@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on energy consumption and dynamic energy dissipation in
   digital systems.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/38df2a594fdb6d0a95990dcb1229957d_l16_print.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/38df2a594fdb6d0a95990dcb1229957d_l16_print.pdf
 file_size: 508129
 file_type: application/pdf
 learning_resource_types:

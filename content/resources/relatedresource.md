@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/ebcc5f1ab76a0f6f0e69cb21de1b0952_relatedresource.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/ebcc5f1ab76a0f6f0e69cb21de1b0952_relatedresource.pdf
 file_size: 139585
 file_type: application/pdf
 learning_resource_types: []

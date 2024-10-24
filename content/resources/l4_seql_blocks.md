@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on sequential building blocks, flip-flops, latches, and
   registers.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/7b4d1c017578e7e20e050168444382e8_l4_seql_blocks.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/7b4d1c017578e7e20e050168444382e8_l4_seql_blocks.pdf
 file_size: 313073
 file_type: application/pdf
 learning_resource_types:
