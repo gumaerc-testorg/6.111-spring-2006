@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: final project presentation by Xinpeng Huang
   and William Putnam. The purpose of this project is to design an implement a laser
   pointer mouse.'
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/dfdfa01b0351957e823c6c0cda3df46a_presentation2.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/dfdfa01b0351957e823c6c0cda3df46a_presentation2.pdf
 file_size: 27582
 file_type: application/pdf
 learning_resource_types:

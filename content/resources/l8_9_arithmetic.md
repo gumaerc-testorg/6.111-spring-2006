@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This topic contains number systems basics.
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/e429de99234a3519553bfc45ee151b7f_l8_9_arithmetic.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/e429de99234a3519553bfc45ee151b7f_l8_9_arithmetic.pdf
 file_size: 467834
 file_type: application/pdf
 learning_resource_types:

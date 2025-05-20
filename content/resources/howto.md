@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines on avoiding common errors when working on the digital system
   design project.
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/b2dd9d7968e29ac14ba583d56f1faa2b_howto.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/b2dd9d7968e29ac14ba583d56f1faa2b_howto.pdf
 file_size: 106185
 file_type: application/pdf
 learning_resource_types:

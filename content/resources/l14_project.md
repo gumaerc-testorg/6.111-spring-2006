@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with guidelines and instructions for the final project.
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/1ea08258586d1c02cecef7e14805e94f_l14_project.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/1ea08258586d1c02cecef7e14805e94f_l14_project.pdf
 file_size: 117939
 file_type: application/pdf
 learning_resource_types:
