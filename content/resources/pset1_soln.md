@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on Boolean algebra, Karnaugh maps, DeMorgan?s
   theorem, Transistor/Gate level synthesis, and setup and hold times for D flip-flop.
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/af8cb25154a385bc04e5b4bd119e474a_pset1_soln.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/af8cb25154a385bc04e5b4bd119e474a_pset1_soln.pdf
 file_size: 117702
 file_type: application/pdf
 learning_resource_types:
