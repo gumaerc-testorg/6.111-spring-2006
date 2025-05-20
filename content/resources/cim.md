@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout with guidelines and instructions on writing lab reports
   for the course.
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/27202dd85824273a63148e14374fba9d_cim.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/27202dd85824273a63148e14374fba9d_cim.pdf
 file_size: 157446
 file_type: application/pdf
 learning_resource_types: []

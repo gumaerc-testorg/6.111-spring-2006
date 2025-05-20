@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Source file for Lab 2: FSM design - Traffic light controller.'
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/2a186b843abee8741c7828e96ac3d0d5_lab2_labkit.v
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/2a186b843abee8741c7828e96ac3d0d5_lab2_labkit.v
 file_size: 10892
 file_type: text/plain
 learning_resource_types:

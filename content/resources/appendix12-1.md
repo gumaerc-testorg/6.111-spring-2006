@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/72f13b37194dae1b61ebcb04f7c035aa_appendix12.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/72f13b37194dae1b61ebcb04f7c035aa_appendix12.pdf
 file_size: 862983
 file_type: application/pdf
 learning_resource_types: []

@@ -4,7 +4,7 @@ description: 'Example of student work: final project report by Matthew Doherty. 
   project aims to implement the "novel and elegant" Generalized Local Decoding of
   Walsh codewords in an FPGA to determine the potential power savings of the algorithm
   in hardware.'
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/3eb763d1ab6c39283a41ea20661e9634_project15.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/3eb763d1ab6c39283a41ea20661e9634_project15.pdf
 file_size: 80830
 file_type: application/pdf
 learning_resource_types:

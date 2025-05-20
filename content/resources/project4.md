@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: final project report by Bashira Chowdhury and
   Cheryl Texin. This project involves the design and implementation of an image recognition
   system to identify fingerprints based on a given database.'
-file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/f0614cc0efa9719b0d35fff6db957b0e_project4.pdf
+file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/f0614cc0efa9719b0d35fff6db957b0e_project4.pdf
 file_size: 80890
 file_type: application/pdf
 learning_resource_types:
