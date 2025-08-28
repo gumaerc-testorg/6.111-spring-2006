@@ -7,7 +7,7 @@ description: 'This section contains laboratory assignments and supporting docume
   the assignment), and I/O pin constraints (in .ucf format, for use with Xilinx ISE(R)
   Foundation(TM) software) for the 6.111 labkit.'
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: b07a1209-db13-f696-9f99-98a17dc3f627
