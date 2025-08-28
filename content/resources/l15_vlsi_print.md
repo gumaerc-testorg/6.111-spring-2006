@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on very-large-scale integration (VLSI) and performance
   transformations.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/175ea2da2a74523af3f3837a5c39b13c_l15_vlsi_print.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/175ea2da2a74523af3f3837a5c39b13c_l15_vlsi_print.pdf
 file_size: 1166091
 file_type: application/pdf
 learning_resource_types:

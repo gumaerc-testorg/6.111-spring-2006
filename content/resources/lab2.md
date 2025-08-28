@@ -5,11 +5,11 @@ description: Laboratory assignment to implement a traffic light controller that 
   to implement this controller. This lab provides a design methodology that will be
   useful in future labs and final projects. This involves planning your design, coding,
   wiring, and debugging your design.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/696b87fcddfdd94e8e34cf17103d301b_lab2.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/696b87fcddfdd94e8e34cf17103d301b_lab2.pdf
 file_size: 64697
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

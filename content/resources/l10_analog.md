@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on analog building blocks, operational amplifiers, digital
   to analog conversion, and analog to digital conversion.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/bda9efe8db21622afb12e8a2af6cd994_l10_analog.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/bda9efe8db21622afb12e8a2af6cd994_l10_analog.pdf
 file_size: 785959
 file_type: application/pdf
 learning_resource_types:

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Source file for Lab 3: FSM design - Memory tester.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/d3eec48e72668d378890fa8641130109_lab3_labkit.v
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/d3eec48e72668d378890fa8641130109_lab3_labkit.v
 file_size: 13169
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
