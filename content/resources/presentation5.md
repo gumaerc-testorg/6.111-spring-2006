@@ -7,7 +7,7 @@ description: 'Example of student work: final project presentation by Igor Ginsbu
   image. The view is controlled through a trackball mouse, which specifies rotations,
   translations and zoom. While the renderer can take in pre-built models stored in
   on-chip ROM, during gameplay a model of the current board is generated dynamically.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/61f8548e486f7ecab8971f962d9e63d1_presentation5.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/61f8548e486f7ecab8971f962d9e63d1_presentation5.pdf
 file_size: 43686
 file_type: application/pdf
 learning_resource_types:

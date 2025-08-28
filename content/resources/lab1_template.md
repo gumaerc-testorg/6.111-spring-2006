@@ -2,11 +2,11 @@
 content_type: resource
 description: 'Report template and checkoff sheet for Lab 1: Introduction to digital
   design.'
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/ebed3c7e2f0a31b14ed56d0cd9a64400_lab1_template.pdf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/ebed3c7e2f0a31b14ed56d0cd9a64400_lab1_template.pdf
 file_size: 28336
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

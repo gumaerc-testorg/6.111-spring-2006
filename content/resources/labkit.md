@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Source file for completing the course lab assignments.
-file: /courses/6-111-introductory-digital-systems-laboratory-spring-2006/c690d0a9ba0c85afffa3a5303286299e_labkit.ucf
+file: /ol-ocw-studio-app/courses/6-111-introductory-digital-systems-laboratory-spring-2006/c690d0a9ba0c85afffa3a5303286299e_labkit.ucf
 file_size: 31806
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
