@@ -17,10 +17,10 @@ CI-M Related Resources
 
 Report Guide ({{% resource_link 25dcbcea-74ea-2b2b-7046-acf58d3307ae "PDF" %}})
 
-[Mayfield Handbook of Technical and Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
+{{% resource_link "f6100351-18be-4275-8202-c18d2b9562d2" "Mayfield Handbook of Technical and Scientific Writing" %}}
 
-[University of Toronto Guide to Oral Presentations](http://www.writing.utoronto.ca/advice/specific-types-of-writing/oral-presentations)
+{{% resource_link "59a6659f-c124-4689-8efb-7e269010f139" "University of Toronto Guide to Oral Presentations" %}}
 
-[LabWrite: Improving Lab Reports](http://labwrite.ncsu.edu/)
+{{% resource_link "7ddc15e6-4f5e-4355-917b-0a129445ee9b" "LabWrite: Improving Lab Reports" %}}
 
 6.111 Papers ({{% resource_link 27202dd8-5824-273a-6314-8e14374fba9d "PDF" %}}) (Courtesy of Leslie Perelman. Used with permission.)
