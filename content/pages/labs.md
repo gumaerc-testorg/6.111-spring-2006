@@ -51,14 +51,14 @@ Lab1: Report template ({{% resource_link ebed3c7e-2f0a-31b1-4ed5-6d0cd9a64400 "P
 {{< tdopen >}}
 
 
-{{% resource_link "f04ee996-71ec-4701-9b2b-3ef09ee42437" "Fairchild Semiconductor" %}}  
+[Fairchild Semiconductor](http://www.fairchildsemi.com/)  
 74LS00  
 74LS04  
 74LS163A  
 74LS393  
 74LS74
 
-{{% resource_link "302f1abf-4acd-4642-a601-b4afd4dcdf25" "Philips Semiconductor" %}}  
+[Philips Semiconductor](https://www.mouser.com/manufacturer/philips-semiconductors/?gclid=Cj0KCQjwsZKJBhC0ARIsAJ96n3UpfI0N8WW8IW6dlFKRG2SgtaRG8CpynKsI0NiCIfNDuebb096JuaUaAmbzEALw_wcB)  
 HCT family specification
 
 
@@ -97,7 +97,7 @@ Lab 2: FSM design - Traffic light controller ({{% resource_link 696b87fc-ddfd-d9
 Lab 3: FSM design - Memory tester ({{% resource_link 94b491a7-f35e-5492-0f7a-9dc44e3a39af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "090e3386-d0eb-40b1-9afb-0e2c1ee0439d" "Motorola" %}}  
+[Motorola](http://www.motorola.com/)  
 MCM6264
 {{< tdclose >}}
 {{< tdopen >}}
@@ -116,7 +116,7 @@ MCM6264
 Lab 4: Complex FSM - Pong video game ({{% resource_link e9430e6f-483b-dadf-a77b-4f8c3cbf63b8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "47ce4672-de2b-4743-979a-935a23acb1e2" "Analog Devices" %}}  
+[Analog Devices](http://www.analog.com/)  
 ADV7125 triple 8-bit video DAC
 {{< tdclose >}}
 {{< tdopen >}}
